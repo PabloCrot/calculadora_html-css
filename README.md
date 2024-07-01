@@ -1,6 +1,4 @@
-## calculadora_html-css
-
-### Calculadora Básica
+## Calculadora Básica
 
 Este é um projeto simples de uma calculadora básica, desenvolvido com HTML e CSS. Este projeto é ideal para iniciantes que desejam praticar suas habilidades de lógica de programação e desenvolvimento web.
 
