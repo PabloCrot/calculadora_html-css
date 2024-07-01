@@ -29,7 +29,7 @@ O projeto consiste em dois arquivos principais:
 
 ### Contribuição
 
-Sinta-se à vontade para contribuir com melhorias para este projeto. Para contribuir:
+Me ajude a melhorar o projeto:
 
 1. Faça um fork do projeto.
 2. Crie uma nova branch para sua feature (`git checkout -b feature/nova-feature`).
